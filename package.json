@@ -1,0 +1,11 @@
+{
+  "name": "webpack-learning",
+  "version": "1.0.0",
+  "description": "A simple project to learn about webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Campanelli",
+  "license": "ISC"
+}
