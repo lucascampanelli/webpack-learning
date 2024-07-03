@@ -1,3 +1,3 @@
 export const greeting = () => {
-    alert("Olá! :)")
+    alert("JESUS is the answer")
 }
